@@ -42,8 +42,8 @@
 - O que é o Kubernetes? E por que usamos?
     - **R:** Kubernetes é um orquestrador de containers. Ele facilita a vida no gerenciamento dos containers de forma que podemos escalar nossas aplicação de uma forma muito rápida com pouca interação manual.
 - Sua API está com uma baixa performance. O que vc avalia pra melhorá-la?
-- **R:** Monitora a api usando algumas ferramenta tipo Elastic, Datadog ou New Relic. Avalia througput, número de erros dos endpoints (rotas, urls)… E baseado nessa análise (profile) vai identificando quais endpoints estão mais "pesados” (onerosos) para melhorá-los.  A melhoria pode ser feita de várias formas:
-    - Complexidade do algoritmo O(n), O(nˆ2)…
-    - Melhoria das consultas no banco
-    - Melhorias de "hardware” (Escalabilidade Vertical), tanto no banco quanto no servidor da API
-    - Escalar a API horizontal, mas se for uma API muito vinculada a Banco de Dados, isso pode ser tornar um problema.
+    - **R:** Monitora a api usando algumas ferramenta tipo Elastic, Datadog ou New Relic. Avalia througput, número de erros dos endpoints (rotas, urls)… E baseado nessa análise (profile) vai identificando quais endpoints estão mais "pesados” (onerosos) para melhorá-los.  A melhoria pode ser feita de várias formas:
+        - Complexidade do algoritmo O(n), O(nˆ2)…
+        - Melhoria das consultas no banco
+        - Melhorias de "hardware” (Escalabilidade Vertical), tanto no banco quanto no servidor da API
+        - Escalar a API horizontal, mas se for uma API muito vinculada a Banco de Dados, isso pode ser tornar um problema.
