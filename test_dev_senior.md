@@ -47,5 +47,3 @@ closest = find_closest_word(my_main_text, "qusque")
 print("qusque =>", closest)
 ## (2, 0)
 ```
-
-Solução:
