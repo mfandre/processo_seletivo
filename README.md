@@ -3,3 +3,4 @@
 - Testes baseado na senioridade:
   - test_dev_junior_pleno.md
   - test_dev_senior.md
+- Um guia com algumas perguntas para auxiliar a entrevista técnica: guia_entrevista.md
