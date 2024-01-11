@@ -1,9 +1,5 @@
 # Teste Dev Senior
 
-# Teste Dev
-
-O time de talent as vezes ficava com dúvida em alguns perfis durante a entrevista mesmo fazendo as perguntas techs. Sugeri mandar um teste para esses candidatos com prazo de 2 dias. Caso o resultado seja positivo, fazemos a entrevista.
-
 Enunciado:
 
 ```python
