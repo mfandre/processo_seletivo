@@ -1,5 +1,6 @@
 # Veja
 https://andredemattosferraz.substack.com/p/transformando-um-processo-seletivo
+https://andredemattosferraz.substack.com/p/meu-guia-de-entrevistas
 
 # Documentos de suporte
 - lista de perguntas para um primeiro filtro do time de talent : lista_perguntas_respostas_talent.md
