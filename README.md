@@ -1,3 +1,6 @@
+# Veja
+https://andredemattosferraz.substack.com/p/transformando-um-processo-seletivo
+
 # Documentos de suporte
 - lista de perguntas para um primeiro filtro do time de talent : lista_perguntas_respostas_talent.md
 - Testes baseado na senioridade:
